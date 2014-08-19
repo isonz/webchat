@@ -1,0 +1,3 @@
+.floatright{ width:44px; height:396px; position:fixed; _position:absolute; right:0; top:50%; margin-top:-198px;}
+.floatright a{width:44px; height:396px; display:block;background:url(../images/online.png) no-repeat; text-indent:-99999px;}
+.floatright a.offline{background:url(../images/offline.png) no-repeat;}
