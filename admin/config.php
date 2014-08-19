@@ -46,7 +46,7 @@ if(!defined('_SMARTY_CACHE')){
 $GLOBALS['CONFIG_DATABASE'] = array(
 	'host'      => '127.0.0.1',
     'user'      => 'webchat',
-    'pwd'       => 'webchats@PTP2007',
+    'pwd'       => '',
     'dbname'    => 'webchat',
 	'port'      => 3306,
 	'tb_prefix' => ''

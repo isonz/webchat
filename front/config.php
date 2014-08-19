@@ -46,7 +46,7 @@ if(!defined('_SMARTY_CACHE')){
 $GLOBALS['CONFIG_DATABASE'] = array(
 	'host'      => '127.0.0.1',
     'user'      => 'webchat',
-    'pwd'       => 'webchats@PTP2007',
+    'pwd'       => '',
     'dbname'    => 'webchat',
 	'port'      => 3306,
 	'tb_prefix' => ''
@@ -55,7 +55,7 @@ $GLOBALS['CONFIG_DATABASE'] = array(
 $GLOBALS['CONFIG_SMTP'] = array(
 	'server' 	=> "smtp.163.com",
 	'port' 		=> 25,
-	'email' 	=> "zxskigg@163.com",
+	'email' 	=> "",
 	'user' 		=> "zxskigg",
 	'passwd' 	=> "123456"
 );
