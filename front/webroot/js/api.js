@@ -1,4 +1,4 @@
-var webchaturl = "http://webchat.app.ptp.cn/";
+var webchaturl = "/";
 $(window).load(function(){
 	loadStyleFile(webchaturl+"css/window.css");
 	var htmlfloat = '<div class="floatright"><a href="javascript:;" onclick="showwindow()"></a></div>';
